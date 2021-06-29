@@ -74,6 +74,7 @@ const Main = () => {
             } else {
                 return item;
             }
+
         });
 
         setTodoData(newTodoData);
